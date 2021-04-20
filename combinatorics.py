@@ -29,5 +29,3 @@ def repeat_replacements(n, k):
     for i in k:
         tmp = tmp/factorial(i)
     return tmp
-
-
